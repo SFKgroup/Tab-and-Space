@@ -1,0 +1,1 @@
+import System.Windows.Forms;print('Hellow world.');MessageBox.Show('hello world!',"HELLO_WORLD",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
